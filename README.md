@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Part of the brad traversy react course
 
 ## Available Scripts
 
